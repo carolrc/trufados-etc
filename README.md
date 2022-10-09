@@ -23,13 +23,10 @@ com muito amor e carinho. <br>A proposta é fazer doces com ingredientes selecio
 * [Descrição do Projeto](https://github.com/carolrc/trufados-etc/edit/main/README.md#cria%C3%A7%C3%A3o-de-um-site-para-um-empreendedor-local)
 * [Badges](https://github.com/carolrc/trufados-etc/edit/main/README.md#badges)
 * [Índice](#índice)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Funcionalidades e Demonstração da Aplicação](# :hammer: Funcionalidades do projeto)
+* [Acesso ao Projeto](# 📁 Acesso ao projeto)
+* [Tecnologias utilizadas](# ✔️ Técnicas e tecnologias utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](# Autores)
 
 # :hammer: Funcionalidades do projeto
 
@@ -97,4 +94,9 @@ https://user-images.githubusercontent.com/113737080/194739723-b11a3cf2-4f32-46e2
 HTML<br>
 CSS<br>
 JavaScript
+
+# Autores
+
+ 
+<img src="https://user-images.githubusercontent.com/113737080/194740004-cdb8f49d-f77e-4d52-a60e-51cceb8333aa.png" width=115><br><img src="https://user-images.githubusercontent.com/113737080/194740066-0ae8aa6c-5b8f-4e7d-83c6-bd04ccbf372c.png" width=115><br> <img src="https://user-images.githubusercontent.com/113737080/194740090-b536e8da-93e6-46b1-9c5d-fbe73d03f9ec.png" width=115><br> <img src="https://user-images.githubusercontent.com/113737080/194740195-12baec07-c217-47cd-a855-261ada4bf40d.png" width=115><br> 
 
