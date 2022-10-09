@@ -23,10 +23,10 @@ com muito amor e carinho. <br>A proposta é fazer doces com ingredientes selecio
 * [Descrição do Projeto](https://github.com/carolrc/trufados-etc/edit/main/README.md#cria%C3%A7%C3%A3o-de-um-site-para-um-empreendedor-local)
 * [Badges](https://github.com/carolrc/trufados-etc/edit/main/README.md#badges)
 * [Índice](#índice)
-* [Funcionalidades e Demonstração da Aplicação](# :hammer: Funcionalidades do projeto)
-* [Acesso ao Projeto](# 📁 Acesso ao projeto)
-* [Tecnologias utilizadas](# ✔️ Técnicas e tecnologias utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](# Autores)
+* [Funcionalidades e Demonstração da Aplicação](https://github.com/carolrc/trufados-etc/edit/main/README.md#hammer-funcionalidades-do-projeto)
+* [Acesso ao Projeto](https://github.com/carolrc/trufados-etc/edit/main/README.md#-acesso-ao-projeto)
+* [Tecnologias utilizadas](https://github.com/carolrc/trufados-etc/edit/main/README.md#%EF%B8%8F-t%C3%A9cnicas-e-tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](https://github.com/carolrc/trufados-etc/edit/main/README.md#autores)
 
 # :hammer: Funcionalidades do projeto
 
